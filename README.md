@@ -57,6 +57,4 @@ Since this is a static site:
 🙏 Acknowledgments
 
 This project is part of a learning journey in front-end web development.
-© 2025 WonderWorld – All rights reserved.
-
----
+© 2025 WonderWorld – All rights reserved.---
